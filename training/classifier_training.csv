@@ -1,16 +1,16 @@
-Mad Max how are the ratings?,OtherClass
-look for movie directors,LookupDirectors
-who starred in The Hobbit,LookupActors
+Sarinadu movie how are the ratings?,OtherClass
+look for telugu movie directors,LookupDirectors
+who starred in The Bhubali,LookupActors
 drama,SearchMovies
 I'd like to see a recent drama,SearchMovies
 show me whats playing,SearchMovies
 something sexy,SearchMovies
 good day,ClosingTalk
 hi,OpeningTalk
-I'd like to see a recent comedy,SearchMovies
+I'd like to see a recent telugu hit movie,SearchMovies
 whats playing,SearchMovies
 R,SearchMovies
-who is the producer of Vacation?,LookupDirectors
+who is the producer of Bhabulai?,LookupDirectors
 What current movies are playing?,SearchMovies
 help,RepairTalk
 nvm,RepairTalk
@@ -19,16 +19,16 @@ r,SearchMovies
 comedy,SearchMovies
 Ajay,GiveName
 I want to look up movie stars,LookupActors
-show me movies,SearchMovies
-What current movies are playing?,SearchMovies
+show me telugu movies,SearchMovies
+What current telugu movies are playing?,SearchMovies
 upcoming,SearchMovies
-Is Pixels an action or comedy?,OtherClass
+Is Sarinodu an action or comedy?,OtherClass
 I'd like to see a recent comedy,SearchMovies
 need to run,ClosingTalk
 Horror,SearchMovies
 Sorry,SmallTalk
-Beverley,GiveName
-The Martian,OtherClass
+Raja Mouli,GiveName
+The Bahubali Beginning,OtherClass
 what's playing,SearchMovies
 comedy,SearchMovies
 asdf,OtherClass
@@ -40,7 +40,7 @@ whats playing watson?,SearchMovies
 hi,OpeningTalk
 upcoming movies,SearchMovies
 action,SearchMovies
-understand English,SmallTalk
+understand Telugu,SmallTalk
 how about this weather,SmallTalk
 look up a movie,SearchMovies
 r,SearchMovies
@@ -123,13 +123,13 @@ I'd like to see a recent movie,SearchMovies
 action,SearchMovies
 what's playing at cinemas,SearchMovies
 I'd like to see a recent comedy,SearchMovies
-where is Furious 7 showing,CheckShowtimes
+where is showing,CheckShowtimes
 upcoming horror,SearchMovies
 is it freezing where you are,SmallTalk
 I would like to know about current action movies,SearchMovies
 George,GiveName
 a movie i could watch after work today,SearchMovies
-where can I see avengers,CheckShowtimes
+where can I see Jungle Book,CheckShowtimes
 show me upcoming movies,SearchMovies
 do you know about movies,PreSequence
 NC-17,SearchMovies
@@ -144,7 +144,7 @@ What's playing?,SearchMovies
 upcoming,SearchMovies
 comedy,SearchMovies
 high of course,OtherClass
-Lesa,GiveName
+Prabhas,GiveName
 aloha,OpeningTalk
 what were those again,RepairTalk
 upcoming,SearchMovies
@@ -161,7 +161,7 @@ Pitch Perfect 2,OtherClass
 R,SearchMovies
 hi,OpeningTalk
 Shan,GiveName
-Jurrassic Park,OtherClass
+Sardar Gabbar Singh,OtherClass
 Romance,SearchMovies
 action,SearchMovies
 whats playing?,SearchMovies
@@ -177,7 +177,7 @@ my name is Ralph,GiveName
 tips,RepairTalk
 Upcoming movies,SearchMovies
 later,ClosingTalk
-who directed Maze Runner,LookupDirectors
+who directed Bahubali the Begining,LookupDirectors
 r,SearchMovies
 nvm,RepairTalk
 comedy,SearchMovies
@@ -186,19 +186,19 @@ I'd like to see a recent drama,SearchMovies
 Show me whats playing,SearchMovies
 I'd like to see a recent comedy,SearchMovies
 what does that mean,RepairTalk
-Yes please!  Are there any comedies out right now?,SearchMovies
+Yes please!  Are there any Telugu comedies out right now?,SearchMovies
 bonjour,OpeningTalk
 hi,OpeningTalk
 what's playing,SearchMovies
 ted2,OtherClass
-Romantic comedy,SearchMovies
+Romantic Telugu comedy,SearchMovies
 Show me whats playing,SearchMovies
 DO YOU KNOW ABOUT WEATHER,PreSequence
 current,SearchMovies
 can you tell me about cars,PreSequence
 later,ClosingTalk
 movie times,CheckShowtimes
-which superstar is in ant-man?,LookupActors
+which superstar is in Sarinodu?,LookupActors
 yello,OpeningTalk
 what can you tell me,PreSequence
 Comedy,SearchMovies
@@ -206,7 +206,7 @@ show me comedy movies,SearchMovies
 show me whats playing,SearchMovies
 pg,SearchMovies
 movie rating of 5 stars,OtherClass
-Where can I watch Mad Max?,CheckShowtimes
+Where can I watch Sardar Gabbar Singh?,CheckShowtimes
 R,SearchMovies
 feel good movies,SearchMovies
 what movies are playing now?,SearchMovies
@@ -214,7 +214,7 @@ r,SearchMovies
 comedy,SearchMovies
 Another time,SearchMovies
 I don't get it,RepairTalk
-movies directed by Stanley Kubrick,LookupDirectors
+movies directed by Rajamouli,LookupDirectors
 What current movies are playing?,SearchMovies
 that's not what I meant,RepairTalk
 good bye,ClosingTalk
@@ -224,13 +224,13 @@ what does that mean,RepairTalk
 drama,SearchMovies
 whatever show me something cool,OtherClass
 Current movies,SearchMovies
-Where can I see Jurassic World?,CheckShowtimes
+Where can I see Sarinodu?,CheckShowtimes
 show me current action movies,SearchMovies
 are there any blockbusters out,SearchMovies
 I want to search for actresses,LookupActors
 heya,OpeningTalk
 drama,SearchMovies
-what is the rting for pixels?,OtherClass
+what is the rting for Sarinodu?,OtherClass
 I'd like to see a recent movie,SearchMovies
 what's playing in the 92708 area,CheckShowtimes
 musicals,SearchMovies
@@ -252,15 +252,15 @@ buenos dias,OpeningTalk
 What current movies are playing?,SearchMovies
 I'm interested in directors,LookupDirectors
 what were those again?,SearchMovies
-Arnold,GiveName
+Allu Arjun,GiveName
 what is your favorite movie,SmallTalk
 western upcoming NR,SearchMovies
 hmmm... ok maybe action,SearchMovies
 Comedy,SearchMovies
 thanks watson,ClosingTalk
 where do you come from,SmallTalk
-Mad Max,OtherClass
-NC-17,SearchMovies
+Sardar Gabbar Singh,OtherClass
+Savithri,SearchMovies
 upcoming horror movies,SearchMovies
 look for movies,SearchMovies
 I'd like to see a recent movie,SearchMovies
@@ -367,7 +367,7 @@ show me upcoming movies,SearchMovies
 pg 13,SearchMovies
 What are the current movies out right now?,SearchMovies
 NC-17,SearchMovies
-What is Southpas rated?,OtherClass
+What is sardar gabbar singh rated?,OtherClass
 looking for a movie,SearchMovies
 tell me more,RepairTalk
 goodbye,ClosingTalk
@@ -429,7 +429,7 @@ What are current R rated action movies,SearchMovies
 more action movies,SearchMovies
 Then what do you mean movie rating?,RepairTalk
 what's playing?,SearchMovies
-What is Phantom movie about?,OtherClass
+What is Sarinodu movie about?,OtherClass
 PG-11,SearchMovies
 time to go,ClosingTalk
 what were those again?,RepairTalk
@@ -759,7 +759,7 @@ can you show me recent R-rated action movies,SearchMovies
 hi,OpeningTalk
 What current movies are playing?,SearchMovies
 don't you understand English,SmallTalk
-New movie with George Clooney?,LookupActors
+New movie with Pavan Kalyan?,LookupActors
 current,SearchMovies
 Hi,OpeningTalk
 what is staten island summer about?,OtherClass
@@ -861,7 +861,7 @@ I don't understand,RepairTalk
 good,OpeningTalk
 look up movies by Clint Eastwood,LookupDirectors
 sdfa,OtherClass
-Morgan Freeman movies,LookupActors
+Rajamoli Movies movies,LookupActors
 yes comedy,SearchMovies
 who plays in Pixels?,LookupActors
 tonighjt,SearchMovies
@@ -1047,8 +1047,8 @@ look up bollywood movies,SearchMovies
 G,SearchMovies
 showtimes,CheckShowtimes
 Siri is better than you,SmallTalk
-what's the plot of the Terminator,SmallTalk
-which actor is in mission impossible?,LookupActors
+what's the plot of the Bahubalu the Beginning,SmallTalk
+which actor is in Bahubali?,LookupActors
 Ward,GiveName
 What current movies are playing?,SearchMovies
 Sanjay,GiveName
@@ -1142,7 +1142,7 @@ new,SearchMovies
 I'd like to see a recent drama,SearchMovies
 g rated,SearchMovies
 all movies made by Francis Ford Coppola,LookupDirectors
-in the 95118 area,CheckShowtimes
+in the Jubilee hills area,CheckShowtimes
 look up movie showtimes,CheckShowtimes
 upcoming,SearchMovies
 im looking for a romantic movie,SearchMovies
