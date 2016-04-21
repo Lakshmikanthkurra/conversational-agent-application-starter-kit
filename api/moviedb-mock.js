@@ -33,13 +33,13 @@ module.exports = function() {
         curent_index: 3,
         movies: [{
           movie_id: 0,
-          movie_name: 'MOCK: Star Wars: The Force Awakens'
+          movie_name: 'MOCK: Bahubali: The Beginning'
         }, {
           movie_id: 1,
-          movie_name: 'MOCK: Zoolander 2'
+          movie_name: 'MOCK: Sardar Gabbar Singh'
         }, {
           movie_id: 2,
-          movie_name: 'MOCK: Batman v Superman'
+          movie_name: 'MOCK: Sarinodu'
         }]
       };
       return callback(null, results);
@@ -52,7 +52,7 @@ module.exports = function() {
       var movies = [{
         fake: true,
         movie_id: 0,
-        movie_name: 'MOCK: Star Wars: The Force Awakens',
+        movie_name: 'MOCK: Bahubali: The Beginning',
         runtime: 136,
         popularity: 8.5,
         poster_path: 'http://image.tmdb.org/t/p/w300//fYzpM9GmpBlIC893fNjoWCwE24H.jpg',
@@ -64,7 +64,7 @@ module.exports = function() {
       }, {
         fake: true,
         movie_id: 1,
-        movie_name: 'MOCK: Zoolander 2',
+        movie_name: 'MOCK: Sardar Gabbar Singh',
         runtime: 100,
         popularity: 4.2,
         poster_path: 'http://image.tmdb.org/t/p/w300//fnY5UDKdopZnGvzgbJIz9fAFImx.jpg',
@@ -76,7 +76,7 @@ module.exports = function() {
       }, {
         fake: true,
         movie_id: 2,
-        movie_name: 'MOCK: Batman v Superman',
+        movie_name: 'MOCK: Sarinodu',
         runtime: 145,
         popularity: 7.5,
         poster_path: 'http://image.tmdb.org/t/p/w300//eJrlh2g9UGAd7R6mQAOQIIs329H.jpg',
